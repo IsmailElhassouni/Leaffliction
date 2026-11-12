@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*_training/
+*_learnings.zip
+*.keras
+labels.json
+augmented_directory/
