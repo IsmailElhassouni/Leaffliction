@@ -1,4 +1,4 @@
-# Leaffliction — Part 4: Classification
+# Leaffliction : Classification
 
 `train.py` and `predict.py`, plus the reusable augmentation /
 transformation / model helpers under `srcs/` that they build on.
